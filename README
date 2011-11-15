@@ -1,0 +1,10 @@
+Once OpenCV is installed just run
+
+$ cmake .
+to prepare the make file and then
+
+$ make
+to build the executable and
+
+$ ./webcam
+to run the test
